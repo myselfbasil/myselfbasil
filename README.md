@@ -18,8 +18,9 @@ I'm Basil Shaji. Myself a scholar at Karunya Institute of Technology and Science
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
-<p align="left">
+
 <a href="https://x.com/myselfbasil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myselfbasil" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/basil-shaji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myselfbasil" height="30" width="40" /></a>
 <a href="https://www.instagram.com/basil.shaji_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myselfbasil" height="30" width="40" /></a>
 <a href="https://www.medium.com/@basilshaji32/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="myselfbasil" height="30" width="40" /></a>
+
