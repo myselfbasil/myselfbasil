@@ -6,7 +6,7 @@ I'm Basil Shaji, a scholar at Karunya Institute of Technology and Sciences, curr
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Liquid Neural Networks (LNN) 🫥
 - 💬 &nbsp;Ask me about anything related to Deepstream/Python/Tao-Toolkit & Other CV stuff
-- ⚡ &nbsp;Fun fact: I :heart: 🐱s and watching movies 😂
+- ⚡ &nbsp;Fun fact: I :heart: Cats & watching movies.
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
