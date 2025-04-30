@@ -4,9 +4,9 @@ This is the place where I showcase my developer side stuff 😆
 I'm Basil Shaji, a scholar at Karunya Institute of Technology and Sciences, currently pursuing a B.Tech in Artificial Intelligence and Machine Learning. I have a solid foundation in both theory and hands-on practice, with proficiency in programming languages like Python, C, and SQL. I enjoy working on algorithms in AI and ML, and I'm also passionate about video analysis using tools like NVIDIA DeepStream and OpenCV, always staying updated with the latest trends in visual data. Additionally, I'm well-versed in tools such as Scikit-learn and Git, which help me collaborate effectively and keep projects on track. I'm particularly enthusiastic about Computer Vision (CV).
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Liquid Neural Networks (LNN) 🫥
+- 🌱 &nbsp;I’m currently learning on the basics of EV 😌
 - 💬 &nbsp;Ask me about anything related to Deepstream/Python/Tao-Toolkit & Other CV stuff
-- ⚡ &nbsp;Fun fact: I :heart: Cats & watching movies.
+- ⚡ &nbsp;Fun fact: I :heart: Reading Books!.
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
